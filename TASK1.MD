@@ -1,4 +1,4 @@
-**Question 1: Entertainment vs. Educational Programs**
+### **Question 1: Entertainment vs. Educational Programs**
 
 **Category:** Entertainment and Engagement / Intellectual or Cognitive Benefits
 
