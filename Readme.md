@@ -1,18 +1,17 @@
-| TOPIC                               |   Neo-S |   Neo-W |   Blue |   Total |
-|-------------------------------------|---------|---------|--------|---------|
-| Education And Learning              |     107 |      86 |    189 |     382 |
-| Health And Wellness                 |      99 |      87 |    265 |     451 |
-| Relationships And Social Dynamics   |      59 |      24 |     83 |     166 |
-| Personal Growth And Development     |      57 |      18 |     83 |     158 |
-| Work, Career, And Professional Life |      44 |      68 |     67 |     179 |
-| Society And Culture                 |      23 |      49 |     34 |     106 |
-| Lifestyle And Leisure               |      21 |      11 |     20 |      52 |
-| Economy And Finance                 |      20 |      46 |     37 |     103 |
-| Family And Parenting                |      13 |       7 |     22 |      42 |
-| Environment And Sustainability      |       7 |      34 |     21 |      62 |
-| Technology And Innovation           |       4 |      14 |     11 |      29 |
-| Politics And Governance             |       2 |       3 |      5 |      10 |
-| Ethics And Morality                 |       0 |       9 |      3 |      12 |
+| TOPIC                                                    | Neo-S | Neo-W | Blue | Total |
+| :------------------------------------------------------- | ----: | ----: | ---: | ----: |
+| Education And Knowledge                                  |    94 |    81 |  183 |   358 |
+| Personal Growth, Resilience, And Collective Development  |    79 |    29 |  106 |   214 |
+| Relationships And Social Dynamics                        |    71 |    39 |  110 |   220 |
+| Well-Being, Health, And Quality Of Life                  |    64 |    49 |  143 |   256 |
+| Work, Career, And Professional Life                      |    36 |    53 |   80 |   169 |
+| Creativity, Innovation, And Technology                   |    28 |    35 |   37 |   100 |
+| Society, Culture, And Social Responsibility              |    28 |    33 |   49 |   110 |
+| Economic Growth, Financial Stability, And Considerations |    24 |    61 |   38 |   123 |
+| Access And Equity                                        |    13 |    21 |   35 |    69 |
+| Responsibility And Accountability                        |     9 |    19 |   29 |    57 |
+| Environmental And Ethical Sustainability                 |     6 |    31 |   23 |    60 |
+| Moral And Ethical Decision-Making                        |     4 |     5 |    7 |    16 |
 
 ____
 
